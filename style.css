@@ -1,0 +1,75 @@
+* {
+    font-family: MedievalSharp, cursive;
+}
+body {
+    background: url(images/kiwihug-y_2GC4EhOP4-unsplash.jpg);
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    font-size: 450%;
+    color: rgb(12, 46, 26);
+    -webkit-text-stroke-color: rgb(5, 24, 10);
+    -webkit-text-stroke-width: 0.1px;
+    text-shadow: 5px 5px 8px rgb(255, 213, 159);
+    background: 
+    linear-gradient(
+      rgba(255, 189, 150, 0.25), 
+      rgba(37, 28, 22, 0.45)
+    ),
+    url(images/ugur-akdemir-XT-o5O458as-unsplash.jpg);
+    background-size: cover;
+    padding-top: 0.5%;
+    padding-bottom: 2.5%;
+    margin-top: 0%;
+    margin-bottom: 1.5%;
+}
+div {
+    margin-bottom: 5%;
+}
+h2 {
+    margin-inline: 3%;
+    text-decoration: underline;
+    text-shadow: 1px 1px 3px rgb(5, 24, 10);
+}
+p {
+    margin-inline-start:  6%;
+    margin-inline-end: 20%;
+    font-size: 150%;
+    text-shadow: 1px 1px 2px rgb(5, 24, 10);
+}
+/* a {
+    margin-inline-start: 6%;
+    margin-inline-end: 20%;
+    font-size: 150%;
+    text-shadow: 1px 1px 2px rgb(5, 24, 10);
+} */
+img{
+    margin-right: 15%;
+    /* -webkit-box-shadow: 5px 5px 15px 5px #000000;  */
+    box-shadow: 0 1px #808d93,
+    1px 0 #cdd2d5,
+    1px 2px #808d93,
+    2px 1px #cdd2d5,
+    2px 3px #808d93,
+    3px 2px #cdd2d5,
+    3px 4px #808d93,
+    4px 3px #cdd2d5,
+    4px 5px #808d93,
+    5px 4px #cdd2d5,
+    5px 6px #808d93,
+    6px 5px #cdd2d5,
+    6px 7px #808d93,
+    7px 6px #cdd2d5,
+    7px 8px #808d93,
+    8px 7px #cdd2d5,
+    8px 9px #808d93,
+    9px 8px #cdd2d5,
+    9px 10px #808d93,
+    10px 9px #cdd2d5,
+    10px 11px #808d93,
+    11px 10px #cdd2d5,
+    11px 12px #808d93,
+    12px 11px #cdd2d5,
+    16px 15px 15px rgba(15, 13, 15, 0.65);
+}
